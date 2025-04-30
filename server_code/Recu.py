@@ -1,3 +1,6 @@
+import anvil.tables as tables
+import anvil.tables.query as q
+from anvil.tables import app_tables
 import anvil.server
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
